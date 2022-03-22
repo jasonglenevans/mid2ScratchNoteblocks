@@ -24,6 +24,10 @@ addtext("notesQ");
 addline();
 addtext(json.timeSignature[0].notesQ);
 addline();
+addtext("seconds");
+addline();
+addtext(json.timeSignature[0].seconds);
+addline();
 while (i1 < json.tracks.length) {
 	i2 = 0;
 	console.log("track " + i1 + " entering.");
