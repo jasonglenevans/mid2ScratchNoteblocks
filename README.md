@@ -8,6 +8,8 @@ an example is: https://scratch.mit.edu/projects/663993536/
 download nodejs:
 https://nodejs.org/
 
+download index.js
+
 ## converting
 go to https://www.visipiano.com/midi-to-json-converter/
 
