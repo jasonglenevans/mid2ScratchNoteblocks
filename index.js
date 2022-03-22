@@ -37,7 +37,11 @@ while (i1 < json.tracks.length) {
 	addline();
 	addtext("instrument");
 	addline();
-	addtext(json.tracks[i1].instrument);
+	addtext(json.tracks[i1].instrumentNumber);
+	addline();
+	addtext("isPercussion");
+	addline();
+	addtext(json.tracks[i1].isPercussion);
 	addline();
 	while (i2 < json.tracks[i1].notes.length) {
 		console.clear();
