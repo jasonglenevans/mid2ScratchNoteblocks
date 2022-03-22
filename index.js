@@ -22,7 +22,7 @@ addtext(json.timeSignature[0].numerator);
 addline();
 addtext("notesQ");
 addline();
-addtext(json.timeSignature[0].denominator);
+addtext(json.timeSignature[0].notesQ);
 addline();
 while (i1 < json.tracks.length) {
 	i2 = 0;
