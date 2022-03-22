@@ -13,6 +13,8 @@ download index.js
 ## converting
 go to https://www.visipiano.com/midi-to-json-converter/
 
+show the lists named "music" and "track instruments".
+
 then select the .mid file wait until finished converting.
 
 name it file.json.
