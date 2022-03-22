@@ -57,6 +57,8 @@ while (i1 < json.tracks.length) {
 		addline();
 		addtext(json.tracks[i1].notes[i2].name);
 		addline();
+		addtext(json.tracks[i1].notes[i2].velocity);
+		addline();
 		i2 += 1;
 	}
 	i1 += 1;
