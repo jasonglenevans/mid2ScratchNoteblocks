@@ -33,6 +33,10 @@ click import.
 
 select the text file named file.txt
 
+## NOTICE
+
+events are not yet supported if you like to help with that... you can.
+
 click open.
 
 it will automaticly change the instruments for you.
