@@ -13,7 +13,7 @@ download index.js
 ## converting
 go to https://www.visipiano.com/midi-to-json-converter/
 
-show the lists named "music" and "track instruments".
+show the list named "music".
 
 then select the .mid file wait until finished converting.
 
@@ -35,6 +35,4 @@ select the text file named file.txt
 
 click open.
 
-then if you want to change the instruments change the list "track instruments".
-
-eatch channel number has an instrument.
+it will automaticly change the instruments for you.
